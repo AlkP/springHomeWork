@@ -1,1 +1,4 @@
 spring.application.name=springHomework
+
+# your key from https://www.weatherapi.com/
+spring.application.weatherKey=1231231231231231231231231231231
